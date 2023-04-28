@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.Arrays;
 
-public class Code2751 {
+public class Code10989 {
     public static void main(String[] args) throws IOException {
         BufferedReader br=new BufferedReader(new InputStreamReader(System.in));
         int N=Integer.valueOf(br.readLine());
